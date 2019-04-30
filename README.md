@@ -1,4 +1,4 @@
-This library was made from existing [StepIndicator](https://github.com/layerlre/StepIndicator) library but with lots of improvement. I needed a page indicator that could display title and at the same time have a transparent border, but I couldn't find one. So I modified the source code of StepIndicator and made it into a library.
+This library was made from existings [StepIndicator](https://github.com/layerlre/StepIndicator) library but with lots of improvement. I needed a page indicator that could display title and at the same time have a transparent border, but I couldn't find one. So I modified the source code of StepIndicator and made it into a library.
 
 [![](https://jitpack.io/v/devmike01/PageStepIndicator.svg)](https://jitpack.io/#devmike01/PageStepIndicator)
 
